@@ -1,0 +1,10 @@
+<html>
+  <form action="/poll" method="post">
+    <select id="" name="poll">
+      <% polls.forEach(function (poll) { %>
+        <option value="<%=poll%>"><%=poll%></option>
+      <% }) %>
+    </select>
+    <button type="submit">submit</button>
+  </form>
+</html>

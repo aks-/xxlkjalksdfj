@@ -1,0 +1,7 @@
+Build a Voting App using NodeJS. You are free to use any Web/API/Frontend framework.Database and structure is also your choice. Keep it simple. 
+
+It should have the following functionality.
+User visits the URL. User Login's.(Email/Password login). A list of candidates will be shown
+They can vote for a candidate by clicking a button
+We have to keep track of the votes in the database
+Admin User can login and check the votes per candidate
